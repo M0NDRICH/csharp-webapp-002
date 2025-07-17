@@ -9,7 +9,7 @@ POST  http://localhost:5137/games
 Content-Type: application/json
 
 {
-  "name": "Final Fantasy XIV",
+  "name": "Minecraft",
   "genreId": 2,
   "price": 59.99,
   "releaseDate": "2010-09-30"
@@ -27,4 +27,4 @@ Content-Type: application/json
 }
 
 ###
-DELETE http://localhost:5137/games/2
+DELETE http://localhost:5137/games/4
